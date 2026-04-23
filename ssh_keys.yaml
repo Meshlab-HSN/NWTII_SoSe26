@@ -10,3 +10,7 @@
 - team: MelonenPower
   name: "TuerkisMelon"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICdVTJeYyPosgEYbEh45UzfmB9hVKX4sQ73RoKWN6Xz9"
+
+- team: "Electric Power Force" 
+  name:  "Elias"
+  ssh-key:  "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFFw+gcS2yLY8HHmua9N+YkmyUUZi/QrX2GOVZRQNVNx"
