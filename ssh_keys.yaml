@@ -14,3 +14,7 @@
 - team: Electric Force Power
   name: "apoehl"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBSc4cMAuwzzTSv9srrm8MREkVRolHO21ibsr6w6iZqK"
+
+- team: Electric Force Power
+  name: "eriethmueller"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFFw+gcS2yLY8HHmua9N+YkmyUUZi/QrX2GOVZRQNVNx"
